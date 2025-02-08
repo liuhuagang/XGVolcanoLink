@@ -55,7 +55,7 @@ Plugin Version:1.2</br>
 
 ### Long TTS
 &emsp;&emsp;URL:https://www.volcengine.com/docs/6561/1096680<br>
-&emsp;&emsp;精品长文本语音合成为异步合成服务，提供“创建合成任务”和“查询合成结果”两个接口.<br>
+&emsp;&emsp;Long text and speech synthesis is an asynchronous synthesis service that provides two interfaces: Create a synthesis task and Query a synthesis result.<br>
 &emsp;&emsp;For the parameter list, refer to the official website.<br>
 &emsp;&emsp;You can keep the default for test.<br><br>
 ![image](Picture/Product/G_Code_LTTS.png)  
@@ -82,7 +82,7 @@ You can leave the default values for the test. However, you must enter your API 
 &emsp;&emsp;XGVolcanoLinkModule:<br>
 &emsp;&emsp;It contains UE C++ API<br><br> 
 &emsp;&emsp;XGVolcanoChatModule:<br>
-&emsp;&emsp;大Large model dialog module<br><br> 
+&emsp;&emsp;Large model dialog module<br><br> 
 &emsp;&emsp;XGVolcanoOtherModule:<br>
 &emsp;&emsp;......(to be added)<br><br>
 &emsp;&emsp;C++API:<br>
